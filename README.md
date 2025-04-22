@@ -44,8 +44,8 @@ cd EduBot-IQ
 # 3. Install dependencies
 npm install
 
-# 4. Add your OpenAI API key to a .env file
-REACT_APP_OPENAI_API_KEY=your-api-key-here
+# 4. Add your Gemini API key to a .env file
+REACT_APP_GEMINI_API_KEY=your-api-key-here
 
 # 5. Start the development server
 npm start
